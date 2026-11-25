@@ -1,1 +1,1 @@
-# EshopApp
+# EshopApp.sql
